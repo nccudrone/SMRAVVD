@@ -12,7 +12,7 @@
 ## Notes  
 * 此資料集為郊區、山區道路俯視角空拍影像資料集的一部分，做為免費開放使用
 * 此資料集用於學術研究
-* 此資料集僅包含mp4檔案，圖像、遮罩與標註檔案請參考：repo
+* 此資料集僅包含mp4檔案，圖像、遮罩與標註檔案請參考：[repo](https://github.com/nccudrone/SMRAVSSD "link")
 ## Download
 [link](http://140.119.164.183:5000/sharing/jPJiL9Ulo "link")
 ## Licence
