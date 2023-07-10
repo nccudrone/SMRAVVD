@@ -10,7 +10,7 @@ Part 1 由政大無人機團隊 StarLab 使用 DJI Mavic2 Zoom 進行錄製收�
 * 24.981882 ~ 24.984511, 121.571539 ~ 121.574355
  
 錄製角度可以分為俯視(攝影機向下90度)與前視(攝影機向下16度)，飛行高度在5 ~ 30公尺之間。  
-[link1](https://github.com/nccudrone/SMRAVVD#download "link1") 內有14部影片  
+[下方 Part1](https://github.com/nccudrone/SMRAVVD#download "part1") 內有14部影片可供下載。  
 
 ##
 Part 2 由上暘飛行股份有限公司與政大無人機團隊合作 使用 自製無人機(搭載GOPRO)進行錄製收集。  
@@ -20,8 +20,8 @@ Part 2 由上暘飛行股份有限公司與政大無人機團隊合作 使用 �
 * 24.53345 ~ 24.5349, 120.894 ~ 120.8918
   
 錄製角度可以分為俯視(攝影機向下90度)與前視(攝影機向下15~50度)，飛行高度在5 ~ 50公尺之間。  
-[link2](https://github.com/nccudrone/SMRAVVD#download "link2") 內有3個子資料夾，為陰天時拍攝，一個子資料夾內有4部影片，總共有12部影片  
-[link3](https://github.com/nccudrone/SMRAVVD#download "link3") 內有3個子資料夾，為晴天時拍攝，一個子資料夾內有4部影片，總共有12部影片  
+[下方 Part2 陰天](https://github.com/nccudrone/SMRAVVD#download "part2_c") 內有3個子資料夾，為陰天時拍攝，一個子資料夾內有4部影片，總共有12部影片可供下載。  
+[下方 Part2 晴天](https://github.com/nccudrone/SMRAVVD#download "part2_s") 內有3個子資料夾，為晴天時拍攝，一個子資料夾內有4部影片，總共有12部影片可供下載。  
 ##
  
 下面為部分預覽影像：  
@@ -32,8 +32,8 @@ Part 2 由上暘飛行股份有限公司與政大無人機團隊合作 使用 �
 * 此資料集用於學術研究
 * 此資料集僅包含mp4檔案，圖像、遮罩與標註檔案請參考：[repo](https://github.com/nccudrone/SMRAVSSD "link")
 ## Download
-[link1](http://140.119.164.183:5000/sharing/jPJiL9Ulo "link1")  
-[link2](http://140.119.164.183:5000/sharing/8Ey4L9qHf "link2")  
-[link3](http://140.119.164.183:5000/sharing/pXoy70JND "link3")
+* [Part 1](http://140.119.164.183:5000/sharing/jPJiL9Ulo "Part1")  
+* [Part 2 陰天](http://140.119.164.183:5000/sharing/8Ey4L9qHf "Part2_c")  
+* [Part 2 晴天](http://140.119.164.183:5000/sharing/pXoy70JND "Part2_s")
 ## Licence
 請參考 [LICENSE](https://github.com/nccudrone/SMRAVVD/blob/main/LICENSE "link")
